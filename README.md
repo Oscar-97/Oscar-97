@@ -1,9 +1,9 @@
 ### Woah dude.
-<img src="{[BadgeURLHere](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)}" />
+<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
 
-<img src="{[BadgeURLHere](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)}" />
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
 
-<img src="{[BadgeURLHere](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)}" />
+<img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white" />
 <!--
 **Oscar-97/Oscar-97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
